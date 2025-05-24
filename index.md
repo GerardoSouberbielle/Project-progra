@@ -17,7 +17,7 @@ Consistió en un repaso de lo visto en programación 1, trabajando temas como ve
 - [Ejercicio 6](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/EJERCICIO%206.py)
   
 
-(https://github.com/GerardoSouberbielle/Project-progra/blob/main/imagentarea1.jpeg)
+![imagentarea1](https://github.com/user-attachments/assets/ca56ec59-3aa8-40de-9c61-6b1530fdcf74)
 
   
 **Tarea 2:**
