@@ -29,7 +29,7 @@ Aquí se vieron métodos numéricos para el cálculo de raíces. Abarcamos los m
 - [Método Bisección](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Biseccion.py)
 
 
-  ![](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/imagentarea2.jpg)
+![imagentarea2](https://github.com/user-attachments/assets/5d1271e2-29de-406c-8198-41cc047e4e22)
 
 
 **Tarea 3:** 
@@ -40,7 +40,7 @@ Aquí se vieron métodos numéricos para el cálculo de raíces. Abarcamos los m
 - [Método Falsa posición](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Metodo%20de%20la%20falsa%20posicion.py)
 
 
-  ![](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/imagentarea3.jpg)
+![imagentarea3](https://github.com/user-attachments/assets/c7bb16ef-f6ee-4160-aaeb-dead9f8270fc)
 
 
 ## Parcial 2
@@ -57,7 +57,7 @@ Aquí se vieron métodos numéricos para la solución de sistemas de ecuaciones 
 - [Descomposición de Gauss-Seidel](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Metodo%20de%20gauss%20seidel.py)
 
   
-  ![](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/imagentarea4.png)
+![imagentarea4](https://github.com/user-attachments/assets/b6982213-f6cc-4f8f-8aac-33c2bcc7b3ec)
 
 
 **Tarea 5:**
@@ -68,7 +68,7 @@ Aquí se vieron métodos para integración y derivación. Abarcamos los métodos
 - [Tarea Integrales](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Tarea%20DERIVADAS.py)
 
 
-  ![](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/imagentarea5.jpeg)
+![imagentarea5](https://github.com/user-attachments/assets/531ed7ca-bef2-4b85-8fc5-b1a4f94a934a)
 
 
 ## Parcial 3
@@ -83,4 +83,4 @@ Aquí se vieron métodos de Interpolación y Regresión Lineal y cuadrática de 
 
 
 
- ![](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/imagentarea6.jpeg)
+![imagentarea6](https://github.com/user-attachments/assets/a7b5c925-e3e1-4efb-ab4a-9ab09cd713d0)
